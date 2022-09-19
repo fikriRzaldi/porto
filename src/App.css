@@ -254,7 +254,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Banner Css ************/
 .banner {
   margin-top: 0;
-  padding: 260px 0 100px 0;
+  padding: 150px 0 100px 0;
   background-image: url("./assets/img/banner-bg.png");
   background-position: top center;
   background-size: cover;
@@ -365,6 +365,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   bottom: 0;
   width: 40%;
   z-index: -4;
+}
+
+@media screen and (min-width: 480px) {
 }
 
 /************ Projects Css ************/
@@ -586,6 +589,5 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 @media screen and (min-width: 728px) {
   .ale {
     visibility: hidden;
-    
   }
 }

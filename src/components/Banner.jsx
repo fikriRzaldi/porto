@@ -66,9 +66,9 @@ export const Banner = () => {
               </span>
             </h1>
             <p>
-              Hello everyone my name is Fikri Rizaldi, Everyone that know me
-              usually called me Fikri, I'm a college student at Universitas
-              Pembangunan Jaya.
+              Hello everyone my name is Fikri Rizaldi, Everyone 
+              usually called me Fikri, I'm a college student at 
+              Universitas Pembangunan Jaya.
             </p>
             {/* <button onClick={() => console.log("connect")}>
               Lets connect <ArrowRightCircle size={25} />{" "}
