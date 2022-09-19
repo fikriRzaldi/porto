@@ -78,7 +78,7 @@ export const NavBar = () => {
               <a href="#">
                 <img src={navIcon2} alt="" />
               </a>
-              <a href="https://www.instagram.com/fikrizald/">
+              <a href="https://www.instagram.com/fikrzaldi/">
                 <img src={navIcon3} alt="" />
               </a>
             </div>
