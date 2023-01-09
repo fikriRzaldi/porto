@@ -6,6 +6,7 @@ import appotek from "../assets/img/appotek.png";
 import ppcb from "../assets/img/ppcb.png";
 import appetite from "../assets/img/appetite.png";
 import mindcafe from "../assets/img/mindcafe.png";
+import choco from "../assets/img/choco.png";
 
 export const Projects = () => {
   const projects = [
