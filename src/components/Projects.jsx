@@ -41,6 +41,12 @@ export const Projects = () => {
       imgUrl: mindcafe,
       link: "https://www.figma.com/file/TdpxiX7Ks6UhXmI9IIlz0m/Cafe-Landing-Page",
     },
+    {
+      title: "Chocolate UI",
+      description: "UI Design",
+      imgUrl: choco,
+      link: "https://www.figma.com/file/DkMLz9DCzvbPHd5R1hm3xI/ntah?node-id=0%3A1&t=0hDZyJKqPA49BriQ-1",
+    },
   ];
   return (
     <section className="project" id="projects">
