@@ -14,19 +14,19 @@ export const Projects = () => {
       title: "Appotek",
       description: "Simple Pharmacy WebApp Made With PHP",
       imgUrl: appotek,
-      link: "https://github.com/mynfix/appotek",
+      link: "https://github.com/fikriRzaldi/appotek",
     },
     {
       title: "PPCB",
       description: "PHP CRUD",
       imgUrl: ppcb,
-      link: "https://github.com/mynfix/PPCB.ID",
+      link: "https://github.com/fikriRzaldi/PPCB.ID",
     },
     {
       title: "Whatsapp Clone",
       description: "Next JS Project",
       imgUrl: wa,
-      link: "https://github.com/mynfix/whatsapp-cl-v2",
+      link: "https://github.com/fikriRzaldi/whatsapp-cl-v2",
     },
   ];
   const design = [
