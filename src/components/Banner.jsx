@@ -52,7 +52,7 @@ export const Banner = () => {
         <div className="ale">
           <Alert key="danger" variant="danger">
             Open it on PC browser for better UI, cause the css for mobile is not
-            finished yet hehe...
+            finished yet...
           </Alert>
         </div>
         <Row className="align-items-center">
@@ -66,8 +66,13 @@ export const Banner = () => {
               </span>
             </h1>
             <p>
-              Hello everyone my name is Fikri Rizaldi, Everyone usually called
-              me Fikri, I'm a college student at Universitas Pembangunan Jaya.
+              Hello everyone my name is Fikri Rizaldi, I'm a web developer and a
+              UI/UX designer. I'm a fresh graduate of Universitas Pembangunan
+              Jaya majoring in Information System. I'm currently looking for a
+              job or an internship in the field of web development and UI/UX
+              design. I'm also open to any collaboration or project. If you are
+              interested in working with me, please don't hesitate to contact
+              me. I'm looking forward to working with you.{" "}
             </p>
             {/* <button onClick={() => console.log("connect")}>
               Lets connect <ArrowRightCircle size={25} />{" "}

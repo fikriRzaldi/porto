@@ -1,9 +1,6 @@
 import { Container, Col, Row } from "react-bootstrap";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import meter1 from "../assets/img/meter1.svg";
-import meter2 from "../assets/img/meter2.svg";
-import meter3 from "../assets/img/meter3.svg";
 import html from "../assets/img/html.png";
 import css from "../assets/img/css.png";
 import php from "../assets/img/php.png";
@@ -44,9 +41,8 @@ export const Skills = () => {
             <div className="skill-bx">
               <h2>Skills</h2>
               <p>
-                Some skills that I've learned, but I'm still in the learning
-                stage and I'm not some professional or something like that, so
-                don't expect too much hehe...
+                Some skills that I've learned and used in my projects. I'm still
+                learning and improving my skills.
               </p>
               <Carousel
                 responsive={responsive}

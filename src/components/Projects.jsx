@@ -7,6 +7,8 @@ import ppcb from "../assets/img/ppcb.png";
 import appetite from "../assets/img/appetite.png";
 import mindcafe from "../assets/img/mindcafe.png";
 import choco from "../assets/img/choco.png";
+import alpend from "../assets/img/alpend.png";
+import jardin from "../assets/img/jardin.png";
 
 export const Projects = () => {
   const projects = [
@@ -47,6 +49,18 @@ export const Projects = () => {
       description: "UI Design",
       imgUrl: choco,
       link: "https://www.figma.com/file/DkMLz9DCzvbPHd5R1hm3xI/ntah?node-id=0%3A1&t=0hDZyJKqPA49BriQ-1",
+    },
+    {
+      title: "Stellar Jardin",
+      description: "Stellar Jardin Design",
+      imgUrl: jardin,
+      link: "https://www.figma.com/proto/YFlqOOlBtdGihqfHeWa1pG/Jardin?type=design&node-id=154-29&t=wf9pun1mzzZx5aNe-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=154%3A29&mode=design",
+    },
+    {
+      title: "Alpend Hills",
+      description: "Perumahan Alpend Hills Design",
+      imgUrl: alpend,
+      link: "https://www.figma.com/file/TYg8Qj1FV7zIfoSrVlE3um/Alpen-Design?type=design&node-id=0%3A1&mode=design&t=LjbyNhgp3HBq1D5Q-1",
     },
   ];
   return (
